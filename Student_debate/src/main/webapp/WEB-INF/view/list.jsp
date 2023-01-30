@@ -63,7 +63,7 @@ input {
 	
 	
 	<div>
-		<form action="/Student_debate/student/logout" method="post">
+		<form action="/Student_debate/login" method="post">
 			<input type="submit" name="s" style="float: right" value="Logout" />
 		</form>
 		<br> <br> <br>
